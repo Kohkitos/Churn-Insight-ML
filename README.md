@@ -13,8 +13,6 @@ This project focuses on analyzing customer churn, a critical aspect for business
 ## Project Structure
 - **Data**: Contains datasets used for analysis and prediction.
 - **Notebooks**: Jupyter notebooks with exploratory data analysis (EDA), model development, and evaluation.
-- **Src**: Python scripts for preprocessing, model building, and prediction.
-- **Results**: Includes model evaluation metrics, visualizations, and findings.
 
 ## Acknowledgments
 A huge thanks to Satyajit Pattnaik for the insightful class on customer churn analysis. The project drew inspiration from the methodologies and concepts discussed in their YouTube sessions.
