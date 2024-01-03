@@ -11,9 +11,9 @@ This project focuses on analyzing customer churn, a critical aspect for business
 - **[Jupyter Notebooks](https://jupyter.org/)**: Platform for code development, data exploration, and model building.
 
 ## Project Structure
-- **data**: Contains datasets used for analysis and prediction.
+- **Data**: Contains datasets used for analysis and prediction.
 - **Notebooks**: Jupyter notebooks with exploratory data analysis (EDA), model development, and evaluation.
-- **Scripts**: Python scripts for preprocessing, model building, and prediction.
+- **Src**: Python scripts for preprocessing, model building, and prediction.
 - **Results**: Includes model evaluation metrics, visualizations, and findings.
 
 ## Acknowledgments
